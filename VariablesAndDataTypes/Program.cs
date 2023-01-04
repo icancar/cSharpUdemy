@@ -17,6 +17,12 @@ namespace VariablesAndDataTypes
             b = 2.67;
             Console.WriteLine("A = " + a+ ", B = " + b+" = "+ (a/b));
 
+            //floating point variables
+            float f1 = 5.02f;
+            float f2 = 2.22f;
+            float fDiv = f1 / f2;
+            Console.WriteLine("F1/F2 = " + fDiv);
+
 
         }
     }
