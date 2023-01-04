@@ -9,10 +9,13 @@ namespace VariablesAndDataTypes
             int num1;
             num1 = 5;
             int num2 = 1;
-            Console.Write("Sum of "+ num1+ " and "+num2+" is: "+(num1+num2));
+            Console.WriteLine("Sum of "+ num1+ " and "+num2+" is: "+(num1+num2));
 
-            //multiple variables at once;
-            int num, num4, num3;
+            //multiple variables
+            double a, b, c;
+            a = 5;
+            b = 2.67;
+            Console.WriteLine("A = " + a+ ", B = " + b+" = "+ (a/b));
 
 
         }
