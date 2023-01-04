@@ -11,6 +11,10 @@ namespace VariablesAndDataTypes
             int num2 = 1;
             Console.Write("Sum of "+ num1+ " and "+num2+" is: "+(num1+num2));
 
+            //multiple variables at once;
+            int num, num4, num3;
+
+
         }
     }
 }
