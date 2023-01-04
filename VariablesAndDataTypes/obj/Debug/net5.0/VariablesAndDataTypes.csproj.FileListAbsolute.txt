@@ -1,0 +1,16 @@
+D:\Programming\C#\cSharpUdemy\VariablesAndDataTypes\bin\Debug\net5.0\VariablesAndDataTypes.exe
+D:\Programming\C#\cSharpUdemy\VariablesAndDataTypes\bin\Debug\net5.0\VariablesAndDataTypes.deps.json
+D:\Programming\C#\cSharpUdemy\VariablesAndDataTypes\bin\Debug\net5.0\VariablesAndDataTypes.runtimeconfig.json
+D:\Programming\C#\cSharpUdemy\VariablesAndDataTypes\bin\Debug\net5.0\VariablesAndDataTypes.runtimeconfig.dev.json
+D:\Programming\C#\cSharpUdemy\VariablesAndDataTypes\bin\Debug\net5.0\VariablesAndDataTypes.dll
+D:\Programming\C#\cSharpUdemy\VariablesAndDataTypes\bin\Debug\net5.0\VariablesAndDataTypes.pdb
+D:\Programming\C#\cSharpUdemy\VariablesAndDataTypes\obj\Debug\net5.0\VariablesAndDataTypes.csproj.AssemblyReference.cache
+D:\Programming\C#\cSharpUdemy\VariablesAndDataTypes\obj\Debug\net5.0\VariablesAndDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\cSharpUdemy\VariablesAndDataTypes\obj\Debug\net5.0\VariablesAndDataTypes.AssemblyInfoInputs.cache
+D:\Programming\C#\cSharpUdemy\VariablesAndDataTypes\obj\Debug\net5.0\VariablesAndDataTypes.AssemblyInfo.cs
+D:\Programming\C#\cSharpUdemy\VariablesAndDataTypes\obj\Debug\net5.0\VariablesAndDataTypes.csproj.CoreCompileInputs.cache
+D:\Programming\C#\cSharpUdemy\VariablesAndDataTypes\obj\Debug\net5.0\VariablesAndDataTypes.dll
+D:\Programming\C#\cSharpUdemy\VariablesAndDataTypes\obj\Debug\net5.0\refint\VariablesAndDataTypes.dll
+D:\Programming\C#\cSharpUdemy\VariablesAndDataTypes\obj\Debug\net5.0\VariablesAndDataTypes.pdb
+D:\Programming\C#\cSharpUdemy\VariablesAndDataTypes\obj\Debug\net5.0\VariablesAndDataTypes.genruntimeconfig.cache
+D:\Programming\C#\cSharpUdemy\VariablesAndDataTypes\obj\Debug\net5.0\ref\VariablesAndDataTypes.dll
