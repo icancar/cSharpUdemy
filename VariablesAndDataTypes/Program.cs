@@ -25,7 +25,8 @@ namespace VariablesAndDataTypes
 
             //String manipulation
             String myName = "Igor";
-            Console.WriteLine(myName);
+            String myNameAllUpperCase = myName.ToUpper();
+            Console.WriteLine(myName + ", "+ myNameAllUpperCase);
 
         }
     }
