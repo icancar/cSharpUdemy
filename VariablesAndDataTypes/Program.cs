@@ -8,7 +8,8 @@ namespace VariablesAndDataTypes
         {
             int num1;
             num1 = 5;
-            Console.Write(num1);
+            int num2 = 1;
+            Console.Write(num1+num2);
 
         }
     }
