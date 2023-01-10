@@ -28,6 +28,16 @@ namespace VariablesAndDataTypes
             String myNameAllUpperCase = myName.ToUpper();
             Console.WriteLine(myName + ", "+ myNameAllUpperCase);
 
+            //Console operations
+            Console.WriteLine("Hello1");
+            Console.Write("Igor");
+            Console.Write("Cancar");
+
+            //Wait
+            Console.WriteLine("Please enter your name:");
+            string firstName = Console.ReadLine();
+            Console.WriteLine("You have entered: "+ firstName);
+
         }
     }
 }
