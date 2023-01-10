@@ -33,7 +33,10 @@ namespace VariablesAndDataTypes
             Console.Write("Igor");
             Console.Write("Cancar");
 
-            //Wait
+            //Change console colour
+            Console.BackgroundColor = ConsoleColor.Green;
+            Console.ForegroundColor = ConsoleColor.Black;
+
             Console.WriteLine("Please enter your name:");
             string firstName = Console.ReadLine();
             Console.WriteLine("You have entered: "+ firstName);
