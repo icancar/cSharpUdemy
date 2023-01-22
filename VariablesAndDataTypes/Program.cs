@@ -41,6 +41,12 @@ namespace VariablesAndDataTypes
             string firstName = Console.ReadLine();
             Console.WriteLine("You have entered: "+ firstName);
 
+            //Casting
+            double myDouble = 13.32;
+            int myInt;
+            myInt = (int)myDouble;
+            Console.WriteLine("My Int = " + myInt);
+
         }
     }
 }
