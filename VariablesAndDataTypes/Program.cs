@@ -41,11 +41,28 @@ namespace VariablesAndDataTypes
             string firstName = Console.ReadLine();
             Console.WriteLine("You have entered: "+ firstName);
 
-            //Casting
+            //Casting - explicit conversion
             double myDouble = 13.32;
             int myInt;
             myInt = (int)myDouble;
             Console.WriteLine("My Int = " + myInt);
+
+            //Casting - implicit conversion
+            int num = 1234123123;
+            long bigNumber = num;
+
+            
+                string stringForFloat = "0.85"; // datatype should be float
+                string stringForInt = "12345"; // datatype should be int
+            int myNewInt = int.Parse(stringForInt);
+            float myNewFloat = float.Parse(stringForFloat);
+            Console.WriteLine(myNewInt);
+            Console.WriteLine(myNewFloat);
+
+
+            //String formatting
+            Console.WriteLine("String formatting");
+            Console.WriteLine("Hello my name is {0}, I am {1} years old", "Igor", 23);
 
         }
     }
