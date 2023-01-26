@@ -1,0 +1,16 @@
+D:\Programming\C#\cSharpUdemy\Functions\bin\Debug\net5.0\Functions.exe
+D:\Programming\C#\cSharpUdemy\Functions\bin\Debug\net5.0\Functions.deps.json
+D:\Programming\C#\cSharpUdemy\Functions\bin\Debug\net5.0\Functions.runtimeconfig.json
+D:\Programming\C#\cSharpUdemy\Functions\bin\Debug\net5.0\Functions.runtimeconfig.dev.json
+D:\Programming\C#\cSharpUdemy\Functions\bin\Debug\net5.0\Functions.dll
+D:\Programming\C#\cSharpUdemy\Functions\bin\Debug\net5.0\Functions.pdb
+D:\Programming\C#\cSharpUdemy\Functions\obj\Debug\net5.0\Functions.csproj.AssemblyReference.cache
+D:\Programming\C#\cSharpUdemy\Functions\obj\Debug\net5.0\Functions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\cSharpUdemy\Functions\obj\Debug\net5.0\Functions.AssemblyInfoInputs.cache
+D:\Programming\C#\cSharpUdemy\Functions\obj\Debug\net5.0\Functions.AssemblyInfo.cs
+D:\Programming\C#\cSharpUdemy\Functions\obj\Debug\net5.0\Functions.csproj.CoreCompileInputs.cache
+D:\Programming\C#\cSharpUdemy\Functions\obj\Debug\net5.0\Functions.dll
+D:\Programming\C#\cSharpUdemy\Functions\obj\Debug\net5.0\refint\Functions.dll
+D:\Programming\C#\cSharpUdemy\Functions\obj\Debug\net5.0\Functions.pdb
+D:\Programming\C#\cSharpUdemy\Functions\obj\Debug\net5.0\Functions.genruntimeconfig.cache
+D:\Programming\C#\cSharpUdemy\Functions\obj\Debug\net5.0\ref\Functions.dll
