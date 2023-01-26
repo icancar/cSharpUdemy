@@ -24,6 +24,18 @@ namespace Functions
             GreetFriend(friend3);
 
             Count("Igor is a king.");
+
+            try
+            {
+                Console.WriteLine("Enter number:");
+                string userInput = Console.ReadLine(); 
+                int insertedNumber = int.Parse(userInput);
+                Console.WriteLine("{0} + {1} = {2}", insertedNumber, insertedNumber, Add(insertedNumber, insertedNumber));
+
+            }catch(Exception ex)
+            {
+                Console.WriteLine("Please enter the correct number next time!");
+            }
         }
 
         public static void WriteSomething()
