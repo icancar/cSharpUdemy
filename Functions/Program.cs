@@ -22,6 +22,8 @@ namespace Functions
             GreetFriend(friend1);
             GreetFriend(friend2); 
             GreetFriend(friend3);
+
+            Count("Igor is a king.");
         }
 
         public static void WriteSomething()
@@ -47,6 +49,11 @@ namespace Functions
         public static void GreetFriend(string friendName)
         {
             Console.WriteLine("Hello {0}, my Friend!",friendName);
+        }
+
+        public static void Count(string inputString)
+        {
+            Console.WriteLine("The amount of characters is {0}.",inputString.Length);
         }
     }
 }
