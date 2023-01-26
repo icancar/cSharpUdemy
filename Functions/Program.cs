@@ -14,6 +14,14 @@ namespace Functions
 
             Console.WriteLine("{0} + {1} = {2}", number1, number2, Add(number1, number2));
             Console.WriteLine("{0} / {1} = {2}", number1, number2, Divide(number1, number2));
+
+            string friend1 = "Nikola";
+            string friend2 = "Igor";
+            string friend3 = "Zeliko";
+
+            GreetFriend(friend1);
+            GreetFriend(friend2); 
+            GreetFriend(friend3);
         }
 
         public static void WriteSomething()
@@ -34,6 +42,11 @@ namespace Functions
         public static double Divide(double number1, double number2)
         {
             return number1 / number2;
+        }
+
+        public static void GreetFriend(string friendName)
+        {
+            Console.WriteLine("Hello {0}, my Friend!",friendName);
         }
     }
 }
