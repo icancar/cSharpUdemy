@@ -12,21 +12,25 @@ namespace Decisions
                 int currentTemperature;
                 bool parseSuccessfull = int.TryParse(Console.ReadLine(), out currentTemperature);
 
-                if (currentTemperature <= 10)
+                if (parseSuccessfull)
                 {
-                    Console.WriteLine("It's so cold!");
-                }
-                else if (currentTemperature >= 11 && currentTemperature <= 20)
-                {
-                    Console.WriteLine("It's little bit warmer!");
+                    if (currentTemperature <= 10)
+                    {
+                        Console.WriteLine("It's so cold!");
+                    }
+                    else if (currentTemperature >= 11 && currentTemperature <= 20)
+                    {
+                        Console.WriteLine("It's little bit warmer!");
+                    }
+                    else
+                    {
+                        Console.WriteLine("It's so warm outside!");
+                    }
                 }
                 else
                 {
-                    Console.WriteLine("It's so warm outside!");
+                    Console.WriteLine("ParsingFailed!");
                 }
-
-                
-
 
             }
             catch (System.FormatException ex)
