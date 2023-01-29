@@ -9,7 +9,8 @@ namespace Decisions
             try
             {
                 Console.WriteLine("Please enter temperature!");
-                int currentTemperature = int.Parse(Console.ReadLine());
+                int currentTemperature;
+                bool parseSuccessfull = int.TryParse(Console.ReadLine(), out currentTemperature);
 
                 if (currentTemperature <= 10)
                 {
@@ -23,6 +24,10 @@ namespace Decisions
                 {
                     Console.WriteLine("It's so warm outside!");
                 }
+
+                
+
+
             }
             catch (System.FormatException ex)
             {
