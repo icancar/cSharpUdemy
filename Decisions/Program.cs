@@ -14,17 +14,14 @@ namespace Decisions
                 if (int.TryParse(Console.ReadLine(), out currentTemperature))
                 {
                     Exercise1.CheckIfNumberIsOddOrEven(currentTemperature);
-                    if (currentTemperature <= 10)
+                    switch(currentTemperature)
                     {
-                        Console.WriteLine("It's so cold!");
-                    }
-                    else if (currentTemperature >= 11 && currentTemperature <= 20)
-                    {
-                        Console.WriteLine("It's little bit warmer!");
-                    }
-                    else
-                    {
-                        Console.WriteLine("It's so warm outside!");
+                        case 15:
+                            Console.WriteLine("Temperature is 15 degrees");
+                            break;
+                        default:
+                            Console.WriteLine("Temperature is different than 15");
+                            break;
                     }
                 }
                 else
