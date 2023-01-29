@@ -6,21 +6,33 @@ namespace Decisions
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Please enter temperature!");
-            int currentTemperature = int.Parse(Console.ReadLine());
+            try
+            {
+                Console.WriteLine("Please enter temperature!");
+                int currentTemperature = int.Parse(Console.ReadLine());
 
-            if(currentTemperature <=10)
-            {
-                Console.WriteLine("It's so cold!");
+                if (currentTemperature <= 10)
+                {
+                    Console.WriteLine("It's so cold!");
+                }
+                else if (currentTemperature >= 11 && currentTemperature <= 20)
+                {
+                    Console.WriteLine("It's little bit warmer!");
+                }
+                else
+                {
+                    Console.WriteLine("It's so warm outside!");
+                }
             }
-            else if (currentTemperature >=11 && currentTemperature <=20)
+            catch (System.FormatException ex)
             {
-                Console.WriteLine("It's little bit warmer!");
+                Console.WriteLine("Please enter temperature in numbers!");
             }
-            else
+            catch (Exception ex)
             {
-                Console.WriteLine("It's so warm outside!");
+                Console.WriteLine("Unexpected exception!");
             }
+           
         }
     }
 }
