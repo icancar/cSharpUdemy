@@ -13,6 +13,7 @@ namespace Decisions
 
                 if (int.TryParse(Console.ReadLine(), out currentTemperature))
                 {
+                    Exercise1.CheckIfNumberIsOddOrEven(currentTemperature);
                     if (currentTemperature <= 10)
                     {
                         Console.WriteLine("It's so cold!");
