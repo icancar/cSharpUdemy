@@ -1,0 +1,16 @@
+D:\Programming\C#\cSharpUdemy\Decisions\bin\Debug\net5.0\Decisions.exe
+D:\Programming\C#\cSharpUdemy\Decisions\bin\Debug\net5.0\Decisions.deps.json
+D:\Programming\C#\cSharpUdemy\Decisions\bin\Debug\net5.0\Decisions.runtimeconfig.json
+D:\Programming\C#\cSharpUdemy\Decisions\bin\Debug\net5.0\Decisions.runtimeconfig.dev.json
+D:\Programming\C#\cSharpUdemy\Decisions\bin\Debug\net5.0\Decisions.dll
+D:\Programming\C#\cSharpUdemy\Decisions\bin\Debug\net5.0\Decisions.pdb
+D:\Programming\C#\cSharpUdemy\Decisions\obj\Debug\net5.0\Decisions.csproj.AssemblyReference.cache
+D:\Programming\C#\cSharpUdemy\Decisions\obj\Debug\net5.0\Decisions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\cSharpUdemy\Decisions\obj\Debug\net5.0\Decisions.AssemblyInfoInputs.cache
+D:\Programming\C#\cSharpUdemy\Decisions\obj\Debug\net5.0\Decisions.AssemblyInfo.cs
+D:\Programming\C#\cSharpUdemy\Decisions\obj\Debug\net5.0\Decisions.csproj.CoreCompileInputs.cache
+D:\Programming\C#\cSharpUdemy\Decisions\obj\Debug\net5.0\Decisions.dll
+D:\Programming\C#\cSharpUdemy\Decisions\obj\Debug\net5.0\refint\Decisions.dll
+D:\Programming\C#\cSharpUdemy\Decisions\obj\Debug\net5.0\Decisions.pdb
+D:\Programming\C#\cSharpUdemy\Decisions\obj\Debug\net5.0\Decisions.genruntimeconfig.cache
+D:\Programming\C#\cSharpUdemy\Decisions\obj\Debug\net5.0\ref\Decisions.dll
