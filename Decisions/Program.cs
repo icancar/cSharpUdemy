@@ -10,9 +10,8 @@ namespace Decisions
             {
                 Console.WriteLine("Please enter temperature!");
                 int currentTemperature;
-                bool parseSuccessfull = int.TryParse(Console.ReadLine(), out currentTemperature);
 
-                if (parseSuccessfull)
+                if (int.TryParse(Console.ReadLine(), out currentTemperature))
                 {
                     if (currentTemperature <= 10)
                     {
