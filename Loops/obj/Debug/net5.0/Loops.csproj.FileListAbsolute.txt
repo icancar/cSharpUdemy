@@ -1,0 +1,16 @@
+D:\Programming\C#\cSharpUdemy\Loops\bin\Debug\net5.0\Loops.exe
+D:\Programming\C#\cSharpUdemy\Loops\bin\Debug\net5.0\Loops.deps.json
+D:\Programming\C#\cSharpUdemy\Loops\bin\Debug\net5.0\Loops.runtimeconfig.json
+D:\Programming\C#\cSharpUdemy\Loops\bin\Debug\net5.0\Loops.runtimeconfig.dev.json
+D:\Programming\C#\cSharpUdemy\Loops\bin\Debug\net5.0\Loops.dll
+D:\Programming\C#\cSharpUdemy\Loops\bin\Debug\net5.0\Loops.pdb
+D:\Programming\C#\cSharpUdemy\Loops\obj\Debug\net5.0\Loops.csproj.AssemblyReference.cache
+D:\Programming\C#\cSharpUdemy\Loops\obj\Debug\net5.0\Loops.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\cSharpUdemy\Loops\obj\Debug\net5.0\Loops.AssemblyInfoInputs.cache
+D:\Programming\C#\cSharpUdemy\Loops\obj\Debug\net5.0\Loops.AssemblyInfo.cs
+D:\Programming\C#\cSharpUdemy\Loops\obj\Debug\net5.0\Loops.csproj.CoreCompileInputs.cache
+D:\Programming\C#\cSharpUdemy\Loops\obj\Debug\net5.0\Loops.dll
+D:\Programming\C#\cSharpUdemy\Loops\obj\Debug\net5.0\refint\Loops.dll
+D:\Programming\C#\cSharpUdemy\Loops\obj\Debug\net5.0\Loops.pdb
+D:\Programming\C#\cSharpUdemy\Loops\obj\Debug\net5.0\Loops.genruntimeconfig.cache
+D:\Programming\C#\cSharpUdemy\Loops\obj\Debug\net5.0\ref\Loops.dll
