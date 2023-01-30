@@ -18,6 +18,13 @@ namespace Loops
                     Console.WriteLine(i);
                 }
             }
+
+            int counter = 0;
+            while(counter < 20)
+            {
+                Console.WriteLine("Value of counter in while loop is: {0}",counter);
+                counter++;
+            }
         }
     }
 }
