@@ -37,6 +37,16 @@ namespace Loops
             }
 
             Console.WriteLine("At the end, value of counter is: {0}", counterText);
+
+
+            for (int i = 0; i< 10; i++)
+            {
+                Console.WriteLine("Value of i is: {0}", i);
+                if(i ==4)
+                {
+                    break;
+                }
+            }
         }
     }
 }
