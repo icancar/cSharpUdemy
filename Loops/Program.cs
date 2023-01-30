@@ -25,6 +25,18 @@ namespace Loops
                 Console.WriteLine("Value of counter in while loop is: {0}",counter);
                 counter++;
             }
+
+            string enteredText = "";
+            int counterText = 0;
+            while (enteredText.Equals(""))
+            {
+                Console.WriteLine("Press enter to increase amount by one, or something different to stop!");
+                counterText++;
+                Console.WriteLine("Current value of counter is {0}", counterText);
+                enteredText = Console.ReadLine();
+            }
+
+            Console.WriteLine("At the end, value of counter is: {0}", counterText);
         }
     }
 }
