@@ -15,6 +15,10 @@ namespace OOPConcepts
             this.firstName = firstName;
             this.age = age;
         }
+        //add default constructor;
+        public Human()
+        {
+        }
 
         //members
         private string firstName;

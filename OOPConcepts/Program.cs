@@ -21,6 +21,8 @@ namespace OOPConcepts
 
             denis.IntroduceMyself();
 
+            Human Igor = new Human();
+            Igor.IntroduceMyself();
             
         }
     }
