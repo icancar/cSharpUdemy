@@ -8,6 +8,13 @@ namespace OOPConcepts
 {
     internal class Human
     {
+        //constructor
+        public Human(string firstName, string lastName)
+        {
+            this.lastName = lastName;
+            this.firstName= firstName;
+        }
+
         //members
         private string firstName;
         private string lastName;

@@ -8,11 +8,14 @@ namespace OOPConcepts
         static void Main(string[] args)
         {
             //create object of class Human
-            Human denis = new Human();
-            denis.setFirstName("Denis");
-            denis.setLastName("Markovic");
+            Human denis = new Human("Denis", "Markovic");
 
             //Call methods of the class
+            denis.IntroduceMyself();
+
+            denis.setFirstName("Igor");
+            denis.setLastName("Cancar");
+
             denis.IntroduceMyself();
 
             
