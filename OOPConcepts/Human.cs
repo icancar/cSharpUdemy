@@ -36,5 +36,15 @@ namespace OOPConcepts
             this.lastName = lastName;   
         }
 
+        public string getFirstName()
+        {
+            return this.firstName;
+        }
+        
+        public string getLastName()
+        {
+            return this.lastName; 
+        }
+
     }
 }

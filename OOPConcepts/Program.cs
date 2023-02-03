@@ -16,6 +16,9 @@ namespace OOPConcepts
             denis.setFirstName("Igor");
             denis.setLastName("Cancar");
 
+            //getter testing;
+            Console.WriteLine("Current object firstName and lastName are: {0} {1}.", denis.getFirstName(), denis.getLastName());
+
             denis.IntroduceMyself();
 
             
