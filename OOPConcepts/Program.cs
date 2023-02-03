@@ -8,7 +8,7 @@ namespace OOPConcepts
         static void Main(string[] args)
         {
             //create object of class Human
-            Human denis = new Human("Denis", "Markovic");
+            Human denis = new Human("Denis", "Markovic", 23);
 
             //Call methods of the class
             denis.IntroduceMyself();

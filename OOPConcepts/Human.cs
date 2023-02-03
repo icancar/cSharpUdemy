@@ -9,21 +9,23 @@ namespace OOPConcepts
     internal class Human
     {
         //constructor
-        public Human(string firstName, string lastName)
+        public Human(string firstName, string lastName, int age)
         {
             this.lastName = lastName;
-            this.firstName= firstName;
+            this.firstName = firstName;
+            this.age = age;
         }
 
         //members
         private string firstName;
         private string lastName;
+        private int age;
 
 
         //member
         public void IntroduceMyself()
         {
-            Console.WriteLine("Hi, I am {0} {1}.", firstName, lastName);
+            Console.WriteLine("Hi, I am {0} {1}.I am {2} years old.", firstName, lastName, age);
         }
 
         public void setFirstName(string firstName)
@@ -44,6 +46,16 @@ namespace OOPConcepts
         public string getLastName()
         {
             return this.lastName; 
+        }
+
+        public void setAge(int newAge)
+        {
+            this.age = newAge;
+        }
+
+        public int getAge()
+        {
+            return this.age;
         }
 
     }
