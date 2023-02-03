@@ -9,8 +9,10 @@ namespace OOPConcepts
         {
             //create object of class Human
             Human denis = new Human();
-            denis.firstName = "Denis";
+            denis.setFirstName("Denis");
+            denis.setLastName("Markovic");
 
+            //Call methods of the class
             denis.IntroduceMyself();
 
             

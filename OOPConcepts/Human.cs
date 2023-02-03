@@ -9,13 +9,24 @@ namespace OOPConcepts
     internal class Human
     {
         //members
-        public string firstName;
+        private string firstName;
+        private string lastName;
 
 
         //member
         public void IntroduceMyself()
         {
-            Console.WriteLine("Hi, I am {0}", firstName);
+            Console.WriteLine("Hi, I am {0} {1}.", firstName, lastName);
+        }
+
+        public void setFirstName(string firstName)
+        {
+            this.firstName = firstName;
+        }
+
+        public void setLastName(string lastName)
+        {
+            this.lastName = lastName;   
         }
 
     }
