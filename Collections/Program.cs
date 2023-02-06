@@ -6,8 +6,12 @@ namespace Collections
     {
         static void Main(string[] args)
         {
-            ArrayForEach array = new ArrayForEach(10);
-            array.printArray();
+            Matrix matrix = new Matrix();
+
+            matrix.initializeMatrix();
+
+            matrix.printMatrix();
+
         }
     }
 }
