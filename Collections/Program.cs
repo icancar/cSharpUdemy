@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Collections
 {
@@ -6,25 +7,14 @@ namespace Collections
     {
         static void Main(string[] args)
         {
-            Matrix matrix = new Matrix();
+            Dictionary<int,String> dictionary = new Dictionary<int,String>();
 
-            matrix.initializeMatrix();
+            dictionary.Add(1, "Igor");
+            dictionary.Add(2, "Nikola");
+            dictionary.Add(3, "Zeliko");
 
-            matrix.printMatrix();
-            int[] studentGrades = new int[] { 2, 2, 33, 4, 5 };
-            Console.WriteLine("AverageValue of array is: {0}", getAverageValue(studentGrades));
+            Console.WriteLine(dictionary.ToString());
 
-        }
-
-        static double getAverageValue(int[] gradesArray)
-        {
-            double sum = 0;
-            for(int i = 0; i< gradesArray.Length; i++)
-            {
-                sum += gradesArray[i];
-            }
-
-            return (double)sum/gradesArray.Length;
         }
     }
 }
