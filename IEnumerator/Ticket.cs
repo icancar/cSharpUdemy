@@ -18,9 +18,11 @@ namespace IEnumerator
         public bool Equals(Ticket other)
         {
             bool isEqual = false;
+
             if(this.DurationHours == other.DurationHours) { 
                 isEqual = true;
             }
+
             return isEqual;
         }
     }
