@@ -1,0 +1,16 @@
+D:\Programming\C#\cSharpUdemy\IEnumerator\bin\Debug\net5.0\IEnumerator.exe
+D:\Programming\C#\cSharpUdemy\IEnumerator\bin\Debug\net5.0\IEnumerator.deps.json
+D:\Programming\C#\cSharpUdemy\IEnumerator\bin\Debug\net5.0\IEnumerator.runtimeconfig.json
+D:\Programming\C#\cSharpUdemy\IEnumerator\bin\Debug\net5.0\IEnumerator.runtimeconfig.dev.json
+D:\Programming\C#\cSharpUdemy\IEnumerator\bin\Debug\net5.0\IEnumerator.dll
+D:\Programming\C#\cSharpUdemy\IEnumerator\bin\Debug\net5.0\IEnumerator.pdb
+D:\Programming\C#\cSharpUdemy\IEnumerator\obj\Debug\net5.0\IEnumerator.csproj.AssemblyReference.cache
+D:\Programming\C#\cSharpUdemy\IEnumerator\obj\Debug\net5.0\IEnumerator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\cSharpUdemy\IEnumerator\obj\Debug\net5.0\IEnumerator.AssemblyInfoInputs.cache
+D:\Programming\C#\cSharpUdemy\IEnumerator\obj\Debug\net5.0\IEnumerator.AssemblyInfo.cs
+D:\Programming\C#\cSharpUdemy\IEnumerator\obj\Debug\net5.0\IEnumerator.csproj.CoreCompileInputs.cache
+D:\Programming\C#\cSharpUdemy\IEnumerator\obj\Debug\net5.0\IEnumerator.dll
+D:\Programming\C#\cSharpUdemy\IEnumerator\obj\Debug\net5.0\refint\IEnumerator.dll
+D:\Programming\C#\cSharpUdemy\IEnumerator\obj\Debug\net5.0\IEnumerator.pdb
+D:\Programming\C#\cSharpUdemy\IEnumerator\obj\Debug\net5.0\IEnumerator.genruntimeconfig.cache
+D:\Programming\C#\cSharpUdemy\IEnumerator\obj\Debug\net5.0\ref\IEnumerator.dll
