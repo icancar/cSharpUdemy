@@ -6,12 +6,16 @@ namespace IEnumerator
     {
         static void Main(string[] args)
         {
-            Ticket ticket1 = new Ticket(10);
-            Ticket ticket2 = new Ticket(10);
-            Ticket ticket3 = new Ticket(20);
+            // new instance 
+            Gun pist = new Gun();
 
-            Console.WriteLine(ticket1.Equals(ticket2));
-            Console.WriteLine(ticket2.Equals(ticket3));
+            // test for methods
+            pist.Label();
+            pist.Shoot();
+
+            // verifying the interface and the parent class
+            if (pist is IShootable && pist is Weapon)
+                System.Console.WriteLine("Yes, it is my parents.");
         }
     }
 }
