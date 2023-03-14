@@ -8,7 +8,7 @@ namespace IEnumerator
 {
     internal class Weapon
     {
-        private String Name;
+        private String Name { get; set; }
         
         public Weapon(String name)
         {
